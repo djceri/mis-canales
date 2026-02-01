@@ -16,3 +16,35 @@ https://rtvelivestream.akamaized.net/live/tdp/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TDTChannels/Images/master/TV/Clan.png", Clan TV
 https://rtvelivestream.akamaized.net/live/clan/index.m3u8
+#EXTM3U
+
+# --- CANALES DE ANDALUCÍA ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TDTChannels/Images/master/TV/CanalSur.png", Canal Sur
+https://canalsur-live.rtva.stream.flumotion.com/canalsur/andalucia/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TDTChannels/Images/master/TV/AndaluciaTV.png", Andalucía TV
+https://canalsur-live.rtva.stream.flumotion.com/canalsur/andaluciatv/main.m3u8
+
+# --- BLOQUE ATRESPLAYER (Pueden ser inestables) ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TDTChannels/Images/master/TV/Antena3.png", Antena 3
+https://p-atrp-at-live.atresmedia.com/at-live/antena3/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TDTChannels/Images/master/TV/LaSexta.png", La Sexta
+https://p-atrp-at-live.atresmedia.com/at-live/lasexta/master.m3u8
+
+# --- CANALES TIPO "INFINITY" (Cine y Series Gratis) ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TDTChannels/Images/master/TV/RuntimeCine.png", Runtime Cine y Series
+https://stream.runtime.tv/runtime-spain/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TDTChannels/Images/master/TV/PlutoTVCineEstelar.png", Pluto TV Cine Estelar
+https://service-stitcher.clusters.pluto.tv/stitch/v1/master/6051f65492d54e000780f2d4.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TDTChannels/Images/master/TV/RakutenAction.png", Rakuten TV Acción
+https://rakuten-action-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
+# --- GENERALISTAS RTVE ---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TDTChannels/Images/master/TV/La1.png", La 1
+https://rtvelivestream.akamaized.net/live/la1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/TDTChannels/Images/master/TV/La2.png", La 2
+https://rtvelivestream.akamaized.net/live/la2/index.m3u8
